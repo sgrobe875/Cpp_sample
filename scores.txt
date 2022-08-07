@@ -1,0 +1,6 @@
+Sarah	26
+Mia	14
+Example	5
+Testing	5
+T	3
+Fisherman	1
